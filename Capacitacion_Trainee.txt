@@ -1,0 +1,14 @@
+Diseño de Apis con OpenAPI
+  Introducción al diseño de APIs
+  Diseño de APIs con OpenAPI
+Microservicios con Spring Boot
+  Creación proyecto Spring Boot
+  Integración con OpenAPI
+  Integración BD H2
+  Refactor
+  Integración pruebas unitarias con Mockito y JUnit
+  Integrar jacoco y SonarQube.
+  Manejo de Excepciones y Contoller Advice
+  Circuit Breaker
+  Despliegue de microservicio en Spring Cloud y Eureka.
+    Consumo Feign Client.
